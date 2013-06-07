@@ -1,0 +1,29 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AngularJS",
+		"Backbone.js",
+		"CoffeeScript",
+		"DetectSyntax",
+		"ERB Insert and Toggle Commands",
+		"ERB Snippets",
+		"Gem Browser",
+		"GitGutter",
+		"jQuery",
+		"JSLint",
+		"LESS",
+		"Open Recent Files",
+		"Package Control",
+		"RubyToggleString",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"Theme - Soda",
+		"ToggleQuotes",
+		"Tomorrow Color Schemes"
+	]
+}
